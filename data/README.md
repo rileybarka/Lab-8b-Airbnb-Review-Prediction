@@ -1,29 +1,34 @@
 # Data Folder
 
-This folder contains the dataset used for **Airbnb Review Prediction - Custom Machine Learning Project**.
+This folder is intended to hold the dataset used for the **Airbnb Review Prediction** project.
 
 ---
 
-## Dataset Included
+## Dataset Information
 
-| Dataset                | Filename                        | Description |
-|------------------------|---------------------------------|-------------|
-| Airbnb Listings NYC    | `airbnb_listings.csv`           | NYC Airbnb data including host details, property info, pricing, and review metrics, used to predict `review_scores_rating`. |
-
----
-
-## Dataset Details
-
-- **Source**: Provided via the course materials  
-- **Rows**: 28,022  
-- **Columns**: 50  
-- **Target Variable**: `review_scores_rating`  
-- **Key Features**: Host listings count, reviews per month, room type, price, availability, and more.  
+This project uses the **Airbnb Listings NYC** dataset, which contains detailed information about New York City Airbnb properties, hosts, and reviews.  
+The dataset is used to predict `review_scores_rating` based on host and listing features.
 
 ---
 
-## Note
+## Expected Filename
 
-This dataset is included in the repository for reproducibility.  
-If using your own dataset, ensure it matches the expected column structure for the notebook to run without errors.
+| Dataset               | Expected Filename              |
+|-----------------------|--------------------------------|
+| Airbnb Listings NYC   | `airbnb_listings.csv`          |
 
+---
+
+## Dataset Access
+
+The dataset is provided through the course portal or by the instructor.  
+Due to size and licensing restrictions, it is **not included** in this repository.  
+If you do not have access, please contact your course administrator.
+
+---
+
+## Instructions
+
+1. Obtain the dataset from the course portal.  
+2. Save it into this `data/` folder.  
+3. Ensure the filename matches **exactly**:

@@ -54,5 +54,5 @@ Click the badge above.
 
 ```bash
 git clone https://github.com/rileybarka/Lab-8b-Airbnb-Review-Prediction.git
-cd airbnb-review-prediction
-jupyter notebook Lab8a.ipynb
+cd Lab-8b-Airbnb-Review-Prediction/notebooks
+jupyter notebook Lab8b.ipynb

@@ -2,7 +2,7 @@
 
 # Airbnb Review Prediction - Custom Machine Learning Project
 
-This project uses NYC Airbnb listings data to predict overall review scores based on host and listing features. The process follows the full ML lifecycle — from exploratory data analysis (EDA) through model training, tuning, and interpretation.
+This project uses NYC Airbnb listings data to predict overall review scores based on host and listing features. The process follows the full ML lifecycle - from exploratory data analysis (EDA) through model training, tuning, and interpretation.
 
 ---
 
